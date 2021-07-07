@@ -26,7 +26,7 @@ git commit -m "alteração da documentação do repositório"
 Comando para enviar a versão criada para o github
 ```git
 git push origin main
-```
+```1
 
 # Clonar repositório do github
 
