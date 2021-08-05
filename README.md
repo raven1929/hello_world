@@ -44,7 +44,5 @@ git push origin main
 
 # ver alterações no repositório
 ```git 
-
   git status 
-
 ```
